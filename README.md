@@ -13,8 +13,9 @@ Go to https://developer.spotify.com/console/get-current-user/ click on get token
 and then click on request token to create it.
 Then open config.cfg file and copy your credentials at required locations.
 
-The program will recommend you song based on the characteristics of your liked and disliked songs.
+The Program will recommend you song based on the characteristics of your liked and disliked songs.
 The characteristics include: danceability, loudness, valence, energy, instrumentalness, acousticness, key, speechiness, and duration.
+
 
 
 
