@@ -3,7 +3,7 @@ You must have a Spotify account in order to get recommendation as this program w
 first you need to install jupyter notebook and spotipy library.
 Go to https://developer.spotify.com/ and create your Spotify developer account.
 Then go to https://developer.spotify.com/documentation/general/guides/app-settings/ to create a client and get client_id and client secret. 
-Go to https://developer.spotify.com/console/get-current-user/ click on get token and select following scopes from the list:
+Go to https://developer.spotify.com/console/get-current-user/ click on get token and select following scopes from the list:-
   1. user-library-read
   2. playlist-read-private 
   3. playlist-modify-public 
